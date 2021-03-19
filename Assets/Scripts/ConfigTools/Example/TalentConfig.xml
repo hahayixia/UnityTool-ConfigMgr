@@ -1,0 +1,70 @@
+﻿<TalentConfig>
+  <RoleTalent>
+    <Talent Kind="10000"  SkillOpenGrade="C-|C+|B-|B|B+|A-|A|A+|S" SkillSwitch="1|1|1|1|1|1|1" IsFixedSkill="1|200|200|200|200|200|200|200|200" FixedSkillID="1|-1|-1|-1|-1|-1|-1|-1|-1" skillName="一阶大招|随机技能|随机技能|随机技能|随机技能|随机技能|随机技能|随机技能|随机技能"/>
+    <Talent Kind="20000"  SkillOpenGrade="C-|C+|B-|B|B+|A-|A|A+|S" SkillSwitch="1|1|1|1|1|1|1" IsFixedSkill="1|200|200|200|200|200|200|200|200" FixedSkillID="1|-1|-1|-1|-1|-1|-1|-1|-1" skillName="一阶大招|随机技能|随机技能|随机技能|随机技能|随机技能|随机技能|随机技能|随机技能"/>
+    <Talent Kind="30000"  SkillOpenGrade="C-|C+|B-|B|B+|A-|A|A+|S" SkillSwitch="1|1|1|1|1|1|1" IsFixedSkill="1|200|200|200|200|200|200|200|200" FixedSkillID="1|-1|-1|-1|-1|-1|-1|-1|-1" skillName="一阶大招|随机技能|随机技能|随机技能|随机技能|随机技能|随机技能|随机技能|随机技能"/>
+    <Talent Kind="40000"  SkillOpenGrade="C-|C+|B-|B|B+|A-|A|A+|S" SkillSwitch="1|1|1|1|1|1|1" IsFixedSkill="1|200|200|200|200|200|200|200|200" FixedSkillID="1|-1|-1|-1|-1|-1|-1|-1|-1" skillName="一阶大招|随机技能|随机技能|随机技能|随机技能|随机技能|随机技能|随机技能|随机技能"/>
+    <Talent Kind="50000"  SkillOpenGrade="C-|C+|B-|B|B+|A-|A|A+|S" SkillSwitch="1|1|1|1|1|1|1" IsFixedSkill="1|200|200|200|200|200|200|200|200" FixedSkillID="1|-1|-1|-1|-1|-1|-1|-1|-1" skillName="一阶大招|随机技能|随机技能|随机技能|随机技能|随机技能|随机技能|随机技能|随机技能"/>
+    <Talent Kind="60000"  SkillOpenGrade="C-|C+|B-|B|B+|A-|A|A+|S" SkillSwitch="1|1|1|1|1|1|1" IsFixedSkill="1|200|200|200|200|200|200|200|200" FixedSkillID="1|-1|-1|-1|-1|-1|-1|-1|-1" skillName="一阶大招|随机技能|随机技能|随机技能|随机技能|随机技能|随机技能|随机技能|随机技能"/>
+    <Talent Kind="70000"  SkillOpenGrade="C-|C+|B-|B|B+|A-|A|A+|S" SkillSwitch="1|1|1|1|1|1|1" IsFixedSkill="1|200|200|200|200|200|200|200|200" FixedSkillID="i1|-1|-1|-1|-1|-1|-1|-1|-1" skillName="一阶大招|随机技能|随机技能|随机技能|随机技能|随机技能|随机技能|随机技能|随机技能"/>
+  </RoleTalent>
+
+  <Random>
+    <RandomSkill roleid="10000" kind="900001" name ="技能槽" unlocked="0" skillType="10" intrduce="技能的携带槽，可以在技能界面穿戴技能" grade="初级"/>
+    <RandomSkill roleid="10000" kind="900002" name ="人气主场" unlocked="1" skillType="11" intrduce="增加玩家的主场优势" grade="中级"/>
+    <RandomSkill roleid="10000" kind="900004" name ="省力技巧" unlocked="1" skillType="12" intrduce="节省玩家必杀所需要的能力值" grade="中级"/>
+    <RandomSkill roleid="10000" kind="900005" name ="轻重球" unlocked="1" skillType="13" intrduce="玩家可以自由控制每次踢球的力度" grade="高级"/>
+    <RandomSkill roleid="10000" kind="900006" name ="高空球" unlocked="1" skillType="14" intrduce="增加玩家踢球的高度" grade="高级"/>
+    <RandomSkill roleid="10000" kind="900007" name ="假扣真踢" unlocked="1" skillType="15" intrduce="玩家可以再扣球和踢球之间进行转换" grade="高级"/>
+    <RandomSkill roleid="10000" kind="900003" name ="滑铲" unlocked="1" skillType="16" intrduce="玩家可以在地面快速滑动" grade="高级"/>
+
+    <RandomSkill roleid="20000" kind="900001" name ="技能槽" unlocked="0" skillType="10" intrduce="技能的携带槽，可以在技能界面穿戴技能" grade="初级"/>
+    <RandomSkill roleid="20000" kind="900002" name ="人气主场" unlocked="1" skillType="11" intrduce="增加玩家的主场优势" grade="中级"/>
+    <RandomSkill roleid="20000" kind="900004" name ="省力技巧" unlocked="1" skillType="12" intrduce="节省玩家必杀所需要的能力值" grade="中级"/>
+    <RandomSkill roleid="20000" kind="900005" name ="轻重球" unlocked="1" skillType="13" intrduce="玩家可以自由控制每次踢球的力度" grade="高级"/>
+    <RandomSkill roleid="20000" kind="900006" name ="高空球" unlocked="1" skillType="14" intrduce="增加玩家踢球的高度" grade="高级"/>
+    <RandomSkill roleid="20000" kind="900007" name ="假扣真踢" unlocked="1" skillType="15" intrduce="玩家可以再扣球和踢球之间进行转换" grade="高级"/>
+    <RandomSkill roleid="20000" kind="900003" name ="滑铲" unlocked="1" skillType="16" intrduce="玩家可以在地面快速滑动" grade="高级"/>
+
+    <RandomSkill roleid="30000" kind="900001" name ="技能槽" unlocked="0" skillType="10" intrduce="技能的携带槽，可以在技能界面穿戴技能" grade="初级"/>
+    <RandomSkill roleid="30000" kind="900002" name ="人气主场" unlocked="1" skillType="11" intrduce="增加玩家的主场优势" grade="中级"/>
+    <RandomSkill roleid="30000" kind="900004" name ="省力技巧" unlocked="1" skillType="12" intrduce="节省玩家必杀所需要的能力值" grade="中级"/>
+    <RandomSkill roleid="30000" kind="900005" name ="轻重球" unlocked="1" skillType="13" intrduce="玩家可以自由控制每次踢球的力度" grade="高级"/>
+    <RandomSkill roleid="30000" kind="900006" name ="高空球" unlocked="1" skillType="14" intrduce="增加玩家踢球的高度" grade="高级"/>
+    <RandomSkill roleid="30000" kind="900007" name ="假扣真踢" unlocked="1" skillType="15" intrduce="玩家可以再扣球和踢球之间进行转换" grade="高级"/>
+    <RandomSkill roleid="30000" kind="900003" name ="滑铲" unlocked="1" skillType="16" intrduce="玩家可以在地面快速滑动" grade="高级"/>
+
+    <RandomSkill roleid="40000" kind="900001" name ="技能槽" unlocked="0" skillType="10" intrduce="技能的携带槽，可以在技能界面穿戴技能" grade="初级"/>
+    <RandomSkill roleid="40000" kind="900002" name ="人气主场" unlocked="1" skillType="11" intrduce="增加玩家的主场优势" grade="中级"/>
+    <RandomSkill roleid="40000" kind="900004" name ="省力技巧" unlocked="1" skillType="12" intrduce="节省玩家必杀所需要的能力值" grade="中级"/>
+    <RandomSkill roleid="40000" kind="900005" name ="轻重球" unlocked="1" skillType="13" intrduce="玩家可以自由控制每次踢球的力度" grade="高级"/>
+    <RandomSkill roleid="40000" kind="900006" name ="高空球" unlocked="1" skillType="14" intrduce="增加玩家踢球的高度" grade="高级"/>
+    <RandomSkill roleid="40000" kind="900007" name ="假扣真踢" unlocked="1" skillType="15" intrduce="玩家可以再扣球和踢球之间进行转换" grade="高级"/>
+    <RandomSkill roleid="40000" kind="900003" name ="滑铲" unlocked="1" skillType="16" intrduce="玩家可以在地面快速滑动" grade="高级"/>
+
+    <RandomSkill roleid="50000" kind="900001" name ="技能槽" unlocked="0" skillType="10" intrduce="技能的携带槽，可以在技能界面穿戴技能" grade="初级"/>
+    <RandomSkill roleid="50000" kind="900002" name ="人气主场" unlocked="1" skillType="11" intrduce="增加玩家的主场优势" grade="中级"/>
+    <RandomSkill roleid="50000" kind="900004" name ="省力技巧" unlocked="1" skillType="12" intrduce="节省玩家必杀所需要的能力值" grade="中级"/>
+    <RandomSkill roleid="50000" kind="900005" name ="轻重球" unlocked="1" skillType="13" intrduce="玩家可以自由控制每次踢球的力度" grade="高级"/>
+    <RandomSkill roleid="50000" kind="900006" name ="高空球" unlocked="1" skillType="14" intrduce="增加玩家踢球的高度" grade="高级"/>
+    <RandomSkill roleid="50000" kind="900007" name ="假扣真踢" unlocked="1" skillType="15" intrduce="玩家可以再扣球和踢球之间进行转换" grade="高级"/>
+    <RandomSkill roleid="50000" kind="900003" name ="滑铲" unlocked="1" skillType="16" intrduce="玩家可以在地面快速滑动" grade="高级"/>
+
+    <RandomSkill roleid="60000" kind="900001" name ="技能槽" unlocked="0" skillType="10" intrduce="技能的携带槽，可以在技能界面穿戴技能" grade="初级"/>
+    <RandomSkill roleid="60000" kind="900002" name ="人气主场" unlocked="1" skillType="11" intrduce="增加玩家的主场优势" grade="中级"/>
+    <RandomSkill roleid="60000" kind="900004" name ="省力技巧" unlocked="1" skillType="12" intrduce="节省玩家必杀所需要的能力值" grade="中级"/>
+    <RandomSkill roleid="60000" kind="900005" name ="轻重球" unlocked="1" skillType="13" intrduce="玩家可以自由控制每次踢球的力度" grade="高级"/>
+    <RandomSkill roleid="60000" kind="900006" name ="高空球" unlocked="1" skillType="14" intrduce="增加玩家踢球的高度" grade="高级"/>
+    <RandomSkill roleid="60000" kind="900007" name ="假扣真踢" unlocked="1" skillType="15" intrduce="玩家可以再扣球和踢球之间进行转换" grade="高级"/>
+    <RandomSkill roleid="60000" kind="900003" name ="滑铲" unlocked="1" skillType="16" intrduce="玩家可以在地面快速滑动" grade="高级"/>
+
+    <RandomSkill roleid="70000" kind="900001" name ="技能槽" unlocked="0" skillType="10" intrduce="技能的携带槽，可以在技能界面穿戴技能" grade="初级"/>
+    <RandomSkill roleid="70000" kind="900002" name ="人气主场" unlocked="1" skillType="11" intrduce="增加玩家的主场优势" grade="中级"/>
+    <RandomSkill roleid="70000" kind="900004" name ="省力技巧" unlocked="1" skillType="12" intrduce="节省玩家必杀所需要的能力值" grade="中级"/>
+    <RandomSkill roleid="70000" kind="900005" name ="轻重球" unlocked="1" skillType="13" intrduce="玩家可以自由控制每次踢球的力度" grade="高级"/>
+    <RandomSkill roleid="70000" kind="900006" name ="高空球" unlocked="1" skillType="14" intrduce="增加玩家踢球的高度" grade="高级"/>
+    <RandomSkill roleid="70000" kind="900007" name ="假扣真踢" unlocked="1" skillType="15" intrduce="玩家可以再扣球和踢球之间进行转换" grade="高级"/>
+    <RandomSkill roleid="70000" kind="900003" name ="滑铲" unlocked="1" skillType="16" intrduce="玩家可以在地面快速滑动" grade="高级"/>
+  </Random>
+</TalentConfig>
+
